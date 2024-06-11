@@ -19,3 +19,17 @@ Craft a comprehensive dashboard to track business results and supercharge decisi
  𝗦𝘂𝗽𝗽𝗹𝘆 𝗖𝗵𝗮𝗶𝗻 𝗩𝗶𝗲𝘄: Explore Forecast Accuracy, Net Error, ABS Error, with key metrics by customer and product.
 
  𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗩𝗶𝗲𝘄: Gain strategic insights into Market Share trends, top 5 customers/products, and revenue trends.
+
+ Below are actionable insights and recommendations from this project.
+
+1. Despite a rising trend, AtliQ’s net sales is still below the 2022 target.
+Recommendation - Launch targeted marketing campaigns to raise product awareness and attract new consumers. Offer discounts on top-selling, high-margin products to encourage bigger purchases and increase revenue.
+
+2. Amazon is AtliQ's top revenue-generating customer, but it's falling short of the gross margin (GM%) and net profit (NP%) targets.
+Recommendation - To improve GM% and NP%, AtliQ’s should focus on reducing pre or post-invoice deductions for Amazon while also working to lower operational expenses related to servicing Amazon.
+
+3. AtliQ Exclusive is excelling in both revenue contribution % and gross margin (GM%).
+Recommendation - Capitalize on this success by offering more discounts and boosting revenue through AtliQ's own store.
+
+4. AtliQ's market share % in the PC market has shown significant growth over the years.
+Recommendation - By intensifying promotion efforts within the PC division, AtliQ has the opportunity to secure the position of the third largest market share in PCs.
